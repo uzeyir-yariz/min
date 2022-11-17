@@ -1,1 +1,3 @@
-burası benim bölümüm 
+burası benim bölümüm
+Yusuf
+print("Hello Work");
